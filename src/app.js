@@ -3,8 +3,6 @@ import "module-alias/register.js";
 import './config.js';
 import { router } from "./routes/api.js";
 import cors from "cors";
-// var cors = require('cors');
-
 
 const app = express();
 
