@@ -37,5 +37,5 @@ CREATE TABLE `Users` (
 ```
 
 ```
-INSERT INTO `Users` VALUES (1,'Cesar Peres','xxx@gmail.com','123456','2022-04-22 00:00:00'),(2,'Cesar Martins','xxxx@gmail.com','123456','2022-04-22 00:00:00');
+INSERT INTO `Users` VALUES (1,'Cesar Peres','xxx@gmail.com','123456','2022-04-22 00:00:00'),(2,'Cesar P','xxxx@gmail.com','123456','2022-04-22 00:00:00');
 ```
