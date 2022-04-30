@@ -1,5 +1,11 @@
-# api-node
+# API-NODE
 
+- API CRUD com nodeJS, express, MySQL
+
+## Pré-requisitos
+- node >= 14.16.0
+- MySQL 8
+- SGBD - DBeaver ou MysqlWorkBench
 
 ## Para rodar o projeto será necessário
 
